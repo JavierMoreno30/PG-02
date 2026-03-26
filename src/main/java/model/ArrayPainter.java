@@ -13,7 +13,7 @@ import model.SearchResult;
  * Colorea según el estado de cada celda en el paso actual.
  */
 public class ArrayPainter {
-
+//javi
     // ── Paleta UCR ────────────────────────────────────────────────────────────
     private static final Color COL_DEFAULT   = Color.web("#1F3868");   // azul UCR
     private static final Color COL_ACTIVE    = Color.web("#E74C3C");   // rojo – comparando ahora
