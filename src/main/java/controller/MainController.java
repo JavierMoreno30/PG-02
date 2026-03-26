@@ -46,7 +46,7 @@ public class MainController {
     private Label lblBinTime;
 
     @FXML
-    private ListView<?> listSteps;
+    private ListView<?> listBinSteps;
 
     @FXML
     private TabPane mainTabPane;
